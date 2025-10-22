@@ -1,0 +1,9 @@
+.about {
+  background: #f8f9fa;
+}
+
+.about-content {
+  max-width: 800px;
+  margin: 0 auto;
+  font-size: 1.1rem;
+}
